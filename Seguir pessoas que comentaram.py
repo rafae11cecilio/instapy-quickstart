@@ -40,6 +40,5 @@ with smart_run(session):
   #session.like_by_tags(["natgeo"], amount=10)
   session.follow_commenters(['myworldbydaniela'], amount=120, daysold=100, max_pic=10, sleep_delay=500, interact=True)
 
-    """ Joining Engagement Pods...
-    """
+  #  """ Joining Engagement Pods... """
     session.join_pods()
