@@ -15,7 +15,7 @@ comments = [
     u'👍👊',
     u'👊👊',
     u'👏👏',
-    u'👏👏👏',/Users/rafaelcecilio/Desktop/Follow.py
+    u'👏👏👏',
     u'🙌🙌🙌'
     ]
 
